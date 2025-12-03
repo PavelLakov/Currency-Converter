@@ -56,7 +56,7 @@ The project is intentionally lightweight to emphasize clarity, maintainability, 
 Clone and install dependencies:
 
 ```bash
-git clone https://github.com/Pavelakov/Currency Converter.git
+git clone https://github.com/PavelLakov/Currency Converter.git
 cd REPO-NAME
 npm install
 ```
