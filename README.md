@@ -1,5 +1,7 @@
 # Currency Converter (React + Vite)
 
+🔗 **Live Demo:** https://convertercurrrency.netlify.app/
+
 A modern currency conversion application demonstrating clean component architecture, API integration, and responsive UI development using **React** and **Vite**. This project highlights practical front-end engineering skills, including state management, API handling, and production-ready UI implementation.
 
 ## Project Summary
